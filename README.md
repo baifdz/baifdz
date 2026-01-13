@@ -1,3 +1,22 @@
+# 💫 About Me
+## Cybersecurity Engineer | Network Analyst
+
+I am a specialist in securing critical infrastructure and optimizing network performance. My focus combines offensive security knowledge with robust defensive configurations.
+
+##  Core Competencies
+
+**🔒 Network Security**
+
+**🎯 Ethical Hacking**
+
+**💻 SysAdmin & Cloud**
+
+**🛠️ Development & IoT**
+
+<br>
+
+---
+
 # 💻 Tech Stack
 
 ### 🛡️ Security & Networking
@@ -76,34 +95,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
----
-
-# 💫 About Me
-## Cybersecurity Engineer | Network Analyst
-
-I am a specialist in securing critical infrastructure and optimizing network performance. My focus combines offensive security knowledge with robust defensive configurations.
-
-##  Core Competencies
-
-**🔒 Network Security**
-
-**🎯 Ethical Hacking**
-
-**💻 SysAdmin & Cloud**
-
-**🛠️ Development & IoT**
-
-<br><br>
----
-
-
-
-
-
-
-
-
-
 
 
 
