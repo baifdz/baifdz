@@ -5,10 +5,48 @@
 
 
 # 💫 About Me:
-# 🛡️ Cybersecurity Engineer | Network Analyst<br><br>Especialista en asegurar infraestructuras críticas y desarrollo de aplicaciones web seguras.<br><br>### 🔥 Core Competencies<br>* [cite_start]**Network Security:** Análisis de tráfico, gestión de firewall, y topologías Cisco (Switching/Routing)[cite: 18, 49].<br>* [cite_start]**Ethical Hacking:** Ejecución de pentests (Black/Grey/White Box) y remediación de vulnerabilidades[cite: 33].<br>* [cite_start]**SysAdmin:** Gestión de servidores Linux y Windows, automatización de scripts y control de acceso[cite: 31, 32].<br><br>### 💻 Development & IoT Projects<br>* [cite_start]**Web Segura:** Desarrollo Full Stack (PHP/JS/CodeIgniter) con integración de APIs (Google/PayPal)[cite: 46, 52].<br>* [cite_start]**IoT:** Implementación de soluciones con NodeMCU y Arduino[cite: 16, 54].<br><br>### 📜 Certificaciones & Formación<br>* [cite_start]CCNAv7: Enterprise Networking, Security, and Automation[cite: 62].<br>* [cite_start]Google Cloud Platform Skills[cite: 65].
+# Cybersecurity Engineer | Network Analyst<br><br>
+Especialista en asegurar infraestructuras críticas y desarrollo de aplicaciones web seguras.<br><br>
 
+ ### Core Competencies<br>
+ 
+**Network Security:** 
+ 
+ Análisis de tráfico, gestión de firewall, y topologías Cisco (Switching/Routing).<br>
+ 
+**Ethical Hacking:**
+
+Ejecución de pentests (Black/Grey/White Box) y remediación de vulnerabilidades.<br>
+
+**SysAdmin:** 
+
+Gestión de servidores Linux y Windows, automatización de scripts y control de acceso<br><br>
+
+### 💻 Development & IoT Projects<br>
+
+* **Web Segura:** Desarrollo Full Stack (PHP/JS/CodeIgniter) con integración de APIs (Google/PayPal)
+.<br>
+
+* **IoT:** Implementación de soluciones con NodeMCU y Arduino.<br><br>
+
+### 📜 Certificaciones & Formación<br>
+* CCNAv7: Enterprise Networking, Security, and Automation<br>
+* Google Cloud Platform Skills
+<br><br>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=baifdz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
